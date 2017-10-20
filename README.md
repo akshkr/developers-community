@@ -8,3 +8,6 @@ Guidelines
 Make a copy of the sample.md ( https://github.com/ai-coder/developers-community/blob/master/profiles/sample.md ) file and fill in the details as given.
 Make your pull request.
 Make sure that your pull request is in the profiles dir
+
+
+Share this repo with your developer friends
